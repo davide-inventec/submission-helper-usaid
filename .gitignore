@@ -1,0 +1,30 @@
+# OS generated files #
+######################
+*.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+*Thumbs.db*
+
+__pycache__*
+.DS_Store
+*.pyc
+*vscode*
+*.ipynb_checkpoints*
+
+# Competition data #
+####################
+*contraceptive_logistics_data.csv
+*submission_format.csv
+
+# Generated data #
+##################
+*.p
+*cleaned_main.csv
+*hierarchical-product_code-region.csv
+*hierarchical-site_code.csv
+*labels_scales_mase.p
+*hierarchical-product_code-district.csv
+*hierarchical-product_code.csv
+*labels_scales_avg.p			l
+*lagged-site_code.csv
