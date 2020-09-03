@@ -11,6 +11,7 @@ __pycache__*
 *.pyc
 *vscode*
 *.ipynb_checkpoints*
+*.ipynb
 
 # Competition data #
 ####################
@@ -28,3 +29,4 @@ __pycache__*
 *hierarchical-product_code.csv
 *labels_scales_avg.p			l
 *lagged-site_code.csv
+submission.csv
