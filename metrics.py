@@ -3,11 +3,8 @@ import pandas as pd
 import numpy as np
 
 class Metric(ABC):
-
     def __call__(self,label,pred,ts_ids):
         pass
-
-
 
 class ScaledError(Metric):
     """NB: remove 0 scales"""
